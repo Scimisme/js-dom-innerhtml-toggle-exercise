@@ -1,5 +1,5 @@
 // Husk fra dag 1: skriv "use strict" herunder
-
+"use strict";
 
 // Eksempel: vi henter teksten "word" ved hjælp af dens id-attribut
 const getWordElem = document.getElementById("word");
